@@ -18,3 +18,31 @@ export const list = [
     price: "$150.000",
   },
 ]
+
+export const information = [
+  {
+    id: 1,
+    name: "Guavatá, Santander",
+    turistico: "7 Zonas turisticas",
+    apartamentos: "5 Apartamentos",
+    fabricas: "4 Fabricas",
+    cover: "./images/zones/Guavata.jpg",
+  },
+  {
+    id: 1,
+    name: "Medellin, Antioquia",
+    turistico: "7 Zonas turisticas",
+    apartamentos: "5 Apartamentos",
+    fabricas: "4 Fabricas",
+    cover: "./images/zones/Medellin.jpg",
+  },
+  {
+    id: 1,
+    name: "Bogotá",
+    turistico: "7 Zonas turisticas",
+    apartamentos: "5 Apartamentos",
+    fabricas: "4 Fabricas",
+    cover: "./images/zones/Bogota.jpg",
+  },
+  
+]

@@ -26,6 +26,7 @@ footer {
   footer ul a {
     display:flex;
     color: #fff;
+    text-decoration: none;
     margin-bottom: 10px;
   }
   footer ul .icon{

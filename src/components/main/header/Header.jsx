@@ -21,8 +21,8 @@ const NavBar = () => {
             <div></div>
             <div className="nav-logo-container">AIRSCAPE</div>
             <div className={`navbar-links-container ${isOpen && "open"}`}>
-                <a href="/">Vuelos</a>
-                <a href="/información">Informacion</a>
+                <a href="/home">Vuelos</a>
+                <a href="/information">Informacion</a>
                 <a href="/centro de ayuda">Ayuda</a>
                 <a><Button variant="primary" to onClick={handleShow}>
         Login
